@@ -44,7 +44,7 @@ Usage
 
 
 More attributes, methods and helpers are well documented and available in the
-`source code <https://github.com/vulndb/python-sdk/blob/master/vulndb/db_vuln.py>`_.
+`source code <https://github.com/lpcdma/python-sdk/blob/master/vulndb/db_vuln.py>`_.
 
 Contributing
 ============

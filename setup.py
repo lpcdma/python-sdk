@@ -16,7 +16,7 @@ setup(
 
     author='Andres Riancho',
     author_email='self@andresriancho.com',
-    url='https://github.com/vulndb/python-sdk/',
+    url='https://github.com/lpcdma/python-sdk/',
 
     packages=[p for p in find_packages() if p.startswith('vulndb')],
     include_package_data=True,
