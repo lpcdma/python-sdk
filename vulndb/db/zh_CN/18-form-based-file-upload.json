@@ -1,0 +1,25 @@
+{
+  "id": 18, 
+  "title": "基于表单的文件上传", 
+  "severity": "提示", 
+  "description": {
+    "$ref": "#/files/description/18"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/5"
+    }
+  }, 
+  "tags": [
+    "web", 
+    "file", 
+    "upload"
+  ], 
+  "references": [
+    {
+      "url": "https://www.owasp.org/index.php/Unrestricted_File_Upload", 
+      "title": "owasp.org"
+    }
+  ]
+}

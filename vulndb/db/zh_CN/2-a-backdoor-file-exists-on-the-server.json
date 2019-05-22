@@ -1,0 +1,30 @@
+{
+  "id": 2, 
+  "title": "服务器存在后门文件", 
+  "severity": "高危", 
+  "description": {
+    "$ref": "#/files/description/2"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/32"
+    }
+  }, 
+  "cwe": [
+    "489"
+  ], 
+  "tags": [
+    "web", 
+    "path", 
+    "backdoor", 
+    "file", 
+    "discovery"
+  ], 
+  "references": [
+    {
+      "url": "https://www.blackhat.com/presentations/bh-usa-07/Wysopal_and_Eng/Presentation/bh-usa-07-wysopal_and_eng.pdf", 
+      "title": "Static Detection of Application Backdoors"
+    }
+  ]
+}

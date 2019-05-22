@@ -1,0 +1,14 @@
+{
+  "id": 5, 
+  "title": "验证码表单", 
+  "severity": "informational", 
+  "description": {
+    "$ref": "#/files/description/5"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/37"
+    }
+  }
+}

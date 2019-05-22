@@ -1,0 +1,30 @@
+{
+  "id": 34, 
+  "title": "NoSQL盲注入", 
+  "severity": "高危", 
+  "description": {
+    "$ref": "#/files/description/34"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/6"
+    }
+  }, 
+  "cwe": [
+    "89"
+  ], 
+  "tags": [
+    "web", 
+    "nosql", 
+    "blind", 
+    "injection", 
+    "database"
+  ], 
+  "references": [
+    {
+      "url": "https://www.owasp.org/index.php/Testing_for_NoSQL_injection", 
+      "title": "OWASP"
+    }
+  ]
+}

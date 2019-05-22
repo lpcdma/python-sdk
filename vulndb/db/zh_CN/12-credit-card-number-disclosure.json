@@ -1,0 +1,27 @@
+{
+  "id": 12, 
+  "title": "信用卡号码泄露", 
+  "severity": "严重", 
+  "description": {
+    "$ref": "#/files/description/12"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/57"
+    }
+  }, 
+  "cwe": [
+    "200"
+  ], 
+  "references": [
+    {
+      "url": "http://en.wikipedia.org/wiki/Luhn_algorithm", 
+      "title": "Wikipedia - Luhn algorithm"
+    }, 
+    {
+      "url": "http://en.wikipedia.org/wiki/Bank_card_number", 
+      "title": "Wikipedia - Bank card number"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8145, 
+  "title": "操作系统", 
+  "severity": "提示", 
+  "description": {
+    "$ref": "#/files/description/8145"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/39"
+    }
+  }, 
+  "cwe": [
+    "749"
+  ], 
+  "tags": [
+    "web", 
+    "http", 
+    "methods", 
+    "options"
+  ], 
+  "references": [
+    {
+      "url": "", 
+      "title": ""
+    }
+  ]
+}
