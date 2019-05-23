@@ -1,9 +1,9 @@
 {
-  "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "id": 8026, 
+  "title": "发现dwsync.xml文件", 
+  "severity": "提示", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8026"
   }, 
   "fix": {
     "effort": 50, 

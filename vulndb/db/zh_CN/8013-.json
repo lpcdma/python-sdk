@@ -1,9 +1,9 @@
 {
   "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "title": "正则表达式拒绝服务", 
+  "severity": "中危", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8013"
   }, 
   "fix": {
     "effort": 50, 

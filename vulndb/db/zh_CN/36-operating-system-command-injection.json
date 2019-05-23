@@ -1,7 +1,7 @@
 {
   "id": 36, 
-  "title": "Operating system command injection", 
-  "severity": "high", 
+  "title": "操作系统命令注入", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/36"
   }, 

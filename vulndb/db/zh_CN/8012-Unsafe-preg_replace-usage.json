@@ -1,9 +1,9 @@
 {
   "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "title": "PHP preg_replace函数漏洞", 
+  "severity": "中危", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8012"
   }, 
   "fix": {
     "effort": 50, 

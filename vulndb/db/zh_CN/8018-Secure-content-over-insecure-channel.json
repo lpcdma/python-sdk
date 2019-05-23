@@ -1,9 +1,9 @@
 {
   "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "title": "通过HTTP获得受HTTPS保护的内容", 
+  "severity": "提示", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8018"
   }, 
   "fix": {
     "effort": 50, 

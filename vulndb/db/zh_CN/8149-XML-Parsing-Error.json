@@ -1,9 +1,9 @@
 {
-  "id": 8124, 
-  "title": "Favicon识别失败", 
-  "severity": "提示", 
+  "id": 1, 
+  "title": "XML解析错误", 
+  "severity": "低危", 
   "description": {
-    "$ref": "#/files/description/8124"
+    "$ref": "#/files/description/1"
   }, 
   "fix": {
     "effort": 50, 
@@ -22,8 +22,8 @@
   ], 
   "references": [
     {
-      "url": "", 
-      "title": ""
+      "url": "http://httpd.apache.org/docs/2.2/mod/core.html#limitexcept", 
+      "title": "Apache.org"
     }
   ]
 }

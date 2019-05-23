@@ -1,7 +1,7 @@
 {
   "id": 50, 
-  "title": "Unvalidated redirect", 
-  "severity": "medium", 
+  "title": "任意包含(重定向)漏洞", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/50"
   }, 

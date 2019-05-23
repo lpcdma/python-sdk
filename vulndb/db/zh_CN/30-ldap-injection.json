@@ -1,7 +1,7 @@
 {
   "id": 30, 
-  "title": "LDAP Injection", 
-  "severity": "high", 
+  "title": "轻量级目录访问协议(LDAP)注入", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/30"
   }, 

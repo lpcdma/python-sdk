@@ -1,9 +1,9 @@
 {
-  "id": 8124, 
-  "title": "Favicon识别失败", 
-  "severity": "提示", 
+  "id": 8003, 
+  "title": "启用敏感CORS方法", 
+  "severity": "低危", 
   "description": {
-    "$ref": "#/files/description/8124"
+    "$ref": "#/files/description/8003"
   }, 
   "fix": {
     "effort": 50, 

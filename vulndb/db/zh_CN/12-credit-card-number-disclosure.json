@@ -1,7 +1,7 @@
 {
   "id": 12, 
   "title": "信用卡号码泄露", 
-  "severity": "严重", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/12"
   }, 

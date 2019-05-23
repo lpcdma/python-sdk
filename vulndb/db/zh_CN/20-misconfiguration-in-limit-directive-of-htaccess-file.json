@@ -1,7 +1,7 @@
 {
   "id": 20, 
-  "title": "Misconfiguration in LIMIT directive of .htaccess file", 
-  "severity": "high", 
+  "title": ".htaccess文件的LIMIT指令配置错误漏洞", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/20"
   }, 

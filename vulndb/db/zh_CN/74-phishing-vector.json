@@ -1,7 +1,7 @@
 {
   "id": 74, 
-  "title": "Phishing vector", 
-  "severity": "low", 
+  "title": "钓鱼风险", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/74"
   }, 

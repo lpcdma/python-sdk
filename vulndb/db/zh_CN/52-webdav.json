@@ -1,6 +1,6 @@
 {
   "id": 52, 
-  "title": "WebDAV", 
+  "title": "不安全的DAV配置(WebDAV)", 
   "severity": "提示", 
   "description": {
     "$ref": "#/files/description/52"

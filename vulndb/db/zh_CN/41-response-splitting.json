@@ -1,7 +1,7 @@
 {
   "id": 41, 
-  "title": "Response Splitting", 
-  "severity": "medium", 
+  "title": "Response可被分割", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/41"
   }, 

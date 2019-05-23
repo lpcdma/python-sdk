@@ -1,7 +1,7 @@
 {
   "id": 19, 
   "title": "不使用HSTS标头", 
-  "severity": "一般", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/19"
   }, 

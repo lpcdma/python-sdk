@@ -1,9 +1,9 @@
 {
-  "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "id": 8126, 
+  "title": "PHP Egg", 
+  "severity": "提示", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8126"
   }, 
   "fix": {
     "effort": 50, 
@@ -22,8 +22,8 @@
   ], 
   "references": [
     {
-      "url": "http://httpd.apache.org/docs/2.2/mod/core.html#limitexcept", 
-      "title": "Apache.org"
+      "url": "", 
+      "title": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": 66, 
-  "title": "Insecure SSL version enabled", 
-  "severity": "medium", 
+  "title": "使用存在漏洞的SSL版本", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/66"
   }, 

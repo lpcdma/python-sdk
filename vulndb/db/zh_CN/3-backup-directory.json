@@ -1,7 +1,7 @@
 {
   "id": 3, 
   "title": "备份目录", 
-  "severity": "严重", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/3"
   }, 

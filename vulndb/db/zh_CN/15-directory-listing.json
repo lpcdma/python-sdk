@@ -1,7 +1,7 @@
 {
   "id": 15, 
   "title": "目录列表", 
-  "severity": "一般", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/15"
   }, 

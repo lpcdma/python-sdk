@@ -1,9 +1,9 @@
 {
   "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "title": "WebSocket任意访问", 
+  "severity": "低危", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8023"
   }, 
   "fix": {
     "effort": 50, 

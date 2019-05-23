@@ -1,9 +1,9 @@
 {
-  "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "id": 8019, 
+  "title": "可控参数可修改HTTP响应(response)头", 
+  "severity": "中危", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8019"
   }, 
   "fix": {
     "effort": 50, 

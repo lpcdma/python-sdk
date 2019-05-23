@@ -1,6 +1,6 @@
 {
   "id": 8123, 
-  "title": "Webserver fingerprint", 
+  "title": "WEB服务器指纹", 
   "severity": "提示", 
   "description": {
     "$ref": "#/files/description/8123"

@@ -1,9 +1,9 @@
 {
-  "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "id": 8090, 
+  "title": "Symfony框架CSRF被禁用", 
+  "severity": "低危", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8090"
   }, 
   "fix": {
     "effort": 50, 

@@ -1,7 +1,7 @@
 {
   "id": 69, 
-  "title": "Insecure Frontpage extensions configuration", 
-  "severity": "high", 
+  "title": "Frontpage扩展配置存在风险", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/69"
   }, 
