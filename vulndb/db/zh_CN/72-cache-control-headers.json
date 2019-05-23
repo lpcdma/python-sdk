@@ -1,7 +1,7 @@
 {
   "id": 72, 
-  "title": "Insecure or no Cache-Control header", 
-  "severity": "low", 
+  "title": "Cache-Control标头风险", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/72"
   }, 
