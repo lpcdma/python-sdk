@@ -1,9 +1,9 @@
 {
-  "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "id": 8074, 
+  "title": "异常查询字符串参数", 
+  "severity": "提示", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8074"
   }, 
   "fix": {
     "effort": 50, 
@@ -22,8 +22,8 @@
   ], 
   "references": [
     {
-      "url": "http://httpd.apache.org/docs/2.2/mod/core.html#limitexcept", 
-      "title": "Apache.org"
+      "url": "", 
+      "title": ""
     }
   ]
 }

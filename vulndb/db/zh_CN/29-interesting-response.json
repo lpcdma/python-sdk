@@ -1,7 +1,7 @@
 {
   "id": 29, 
-  "title": "Interesting response", 
-  "severity": "informational", 
+  "title": "HTTP响应异常", 
+  "severity": "提示", 
   "description": {
     "$ref": "#/files/description/29"
   }, 

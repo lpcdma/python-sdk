@@ -1,9 +1,9 @@
 {
-  "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "id": 8081, 
+  "title": "Cookie", 
+  "severity": "提示", 
   "description": {
-    "$ref": "#/files/description/1"
+    "$ref": "#/files/description/8081"
   }, 
   "fix": {
     "effort": 50, 

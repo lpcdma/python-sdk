@@ -1,7 +1,7 @@
 {
   "id": 40, 
-  "title": "Private IP address disclosure", 
-  "severity": "low", 
+  "title": "私有IP地址泄露", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/40"
   }, 
