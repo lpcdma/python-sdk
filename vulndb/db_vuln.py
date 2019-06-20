@@ -16,7 +16,7 @@ class DBVuln(object):
     """
     DB_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'db')
     DB_VERSION_FILE = 'db-version.txt'
-    DEFAULT_LANG = 'en'
+    DEFAULT_LANG = 'zh_CN'
 
     def __init__(self, _id=None, title=None, description=None, severity=None,
                  wasc=None, tags=None, cwe=None, owasp_top_10=None,
