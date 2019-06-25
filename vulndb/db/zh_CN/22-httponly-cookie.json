@@ -1,7 +1,7 @@
 {
   "id": 22, 
-  "title": "HttpOnly cookie", 
-  "severity": "informational", 
+  "title": "发现HttpOnly cookie", 
+  "severity": "提示", 
   "description": {
     "$ref": "#/files/description/22"
   }, 
