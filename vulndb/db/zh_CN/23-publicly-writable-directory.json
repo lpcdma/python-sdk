@@ -1,7 +1,7 @@
 {
   "id": 23, 
-  "title": "Publicly writable directory", 
-  "severity": "high", 
+  "title": "公开的可写入目录", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/23"
   }, 

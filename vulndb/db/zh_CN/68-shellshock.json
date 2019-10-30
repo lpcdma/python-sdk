@@ -1,7 +1,7 @@
 {
   "id": 68, 
-  "title": "ShellShock", 
-  "severity": "high", 
+  "title": "反弹shell", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/68"
   }, 

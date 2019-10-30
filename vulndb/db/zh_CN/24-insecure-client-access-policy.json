@@ -1,7 +1,7 @@
 {
   "id": 24, 
-  "title": "Insecure client-access policy", 
-  "severity": "low", 
+  "title": "不安全的客户端访问策略", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/24"
   }, 

@@ -1,7 +1,7 @@
 {
   "id": 48, 
-  "title": "Disclosed US Social Security Number (SSN)", 
-  "severity": "high", 
+  "title": "社会工程学攻击内容", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/48"
   }, 

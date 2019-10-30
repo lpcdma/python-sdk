@@ -1,0 +1,29 @@
+{
+  "id": 8134, 
+  "title": "存在反向代理", 
+  "severity": "提示", 
+  "description": {
+    "$ref": "#/files/description/8134"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/39"
+    }
+  }, 
+  "cwe": [
+    "749"
+  ], 
+  "tags": [
+    "web", 
+    "http", 
+    "methods", 
+    "options"
+  ], 
+  "references": [
+    {
+      "url": "", 
+      "title": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": 53, 
-  "title": "Missing 'X-Frame-Options' header", 
-  "severity": "low", 
+  "title": "缺失 'X-Frame-Options' 在标头中", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/53"
   }, 

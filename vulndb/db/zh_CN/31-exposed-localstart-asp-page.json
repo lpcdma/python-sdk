@@ -1,7 +1,7 @@
 {
   "id": 31, 
-  "title": "Exposed localstart.asp page", 
-  "severity": "low", 
+  "title": "公开的localstart.asp页面", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/31"
   }, 

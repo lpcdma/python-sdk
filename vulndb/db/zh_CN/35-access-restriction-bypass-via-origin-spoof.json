@@ -1,7 +1,7 @@
 {
   "id": 35, 
-  "title": "Access restriction bypass via origin spoof", 
-  "severity": "high", 
+  "title": "通过特殊欺骗绕过访问限制", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/35"
   }, 

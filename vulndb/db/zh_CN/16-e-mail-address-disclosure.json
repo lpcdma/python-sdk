@@ -1,7 +1,7 @@
 {
   "id": 16, 
   "title": "E-mail address disclosure", 
-  "severity": "informational", 
+  "severity": "提示", 
   "description": {
     "$ref": "#/files/description/16"
   }, 

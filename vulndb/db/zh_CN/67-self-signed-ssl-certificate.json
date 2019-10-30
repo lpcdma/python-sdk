@@ -1,7 +1,7 @@
 {
   "id": 67, 
-  "title": "Self-signed TLS/SSL certificate", 
-  "severity": "medium", 
+  "title": "自签名 TLS/SSL 证书", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/67"
   }, 

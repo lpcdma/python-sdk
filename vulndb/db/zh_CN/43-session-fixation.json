@@ -1,7 +1,7 @@
 {
   "id": 43, 
-  "title": "Session fixation", 
-  "severity": "high", 
+  "title": "session可被自定义", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/43"
   }, 

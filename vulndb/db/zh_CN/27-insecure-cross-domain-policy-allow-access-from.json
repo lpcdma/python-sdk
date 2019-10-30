@@ -1,7 +1,7 @@
 {
   "id": 27, 
-  "title": "Insecure cross-domain policy", 
-  "severity": "low", 
+  "title": "不安全的跨域策略", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/27"
   }, 

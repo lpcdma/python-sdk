@@ -1,7 +1,7 @@
 {
   "id": 51, 
-  "title": "Unvalidated DOM redirect", 
-  "severity": "medium", 
+  "title": "未经验证的DOM重定向", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/51"
   }, 

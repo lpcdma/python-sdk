@@ -1,7 +1,7 @@
 {
   "id": 65, 
-  "title": "Unrestricted file upload", 
-  "severity": "high", 
+  "title": "不受限制的文件上传", 
+  "severity": "高危", 
   "description": {
     "$ref": "#/files/description/65"
   }, 

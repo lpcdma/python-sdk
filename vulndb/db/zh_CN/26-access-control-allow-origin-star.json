@@ -1,7 +1,7 @@
 {
   "id": 26, 
-  "title": "Access-Control-Allow-Origin header set to '*'", 
-  "severity": "medium", 
+  "title": "Access-Control-Allow-Origin标头设置为'*'", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/26"
   }, 

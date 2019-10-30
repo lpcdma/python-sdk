@@ -1,7 +1,7 @@
 {
   "id": 14, 
-  "title": "CVS/SVN user disclosure", 
-  "severity": "low", 
+  "title": "CVS/SVN/GIT用户信息泄露", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/14"
   }, 

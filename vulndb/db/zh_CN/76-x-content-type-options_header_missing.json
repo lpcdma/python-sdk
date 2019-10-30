@@ -1,7 +1,7 @@
 {
   "id": 76, 
-  "title": "X-Content-Type-Options header missing", 
-  "severity": "low", 
+  "title": "缺失 X-Content-Type-Options 在标头中", 
+  "severity": "低危", 
   "description": {
     "$ref": "#/files/description/76"
   }, 

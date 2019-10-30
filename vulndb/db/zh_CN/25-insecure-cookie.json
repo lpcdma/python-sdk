@@ -1,7 +1,7 @@
 {
   "id": 25, 
-  "title": "Insecure cookie", 
-  "severity": "informational", 
+  "title": "不安全的cookie", 
+  "severity": "提醒", 
   "description": {
     "$ref": "#/files/description/25"
   }, 

@@ -1,7 +1,7 @@
 {
   "id": 32, 
-  "title": "Mixed Resource", 
-  "severity": "medium", 
+  "title": "混合资源", 
+  "severity": "中危", 
   "description": {
     "$ref": "#/files/description/32"
   }, 
