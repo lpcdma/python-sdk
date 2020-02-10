@@ -1,7 +1,7 @@
 {
   "id": 1, 
-  "title": "Allowed HTTP methods", 
-  "severity": "informational", 
+  "title": "配置错误", 
+  "severity": "提示", 
   "description": {
     "$ref": "#/files/description/1"
   }, 
